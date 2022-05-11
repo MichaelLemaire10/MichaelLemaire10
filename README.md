@@ -20,7 +20,7 @@ I am now a fullsatck JavaScript web developer.</p>
 <img width="48" height="48" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b76114fd114b513a32c7b8d6b0ab391374ae4b207cf3e&rid=giphy.gif&ct=s" alt="react logo" />&emsp;
 
 ## Back skills 
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" />&emsp;
+<img width="48" height="48" src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs logo" />&emsp;
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express logo" />&emsp;
 <img width="70" height="32" src="https://sqitch.org/img/sqitch-logo.svg" alt="sqitch logo" />&emsp;
 <img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis logo" />&emsp;
