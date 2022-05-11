@@ -12,12 +12,12 @@ I am now a fullsatck JavaScript web developer.</p>
 
 ## Languages 
 
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5 logo" />&emsp;
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3 logo" />&emsp;
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript logo" />&emsp;
+<img width="48" height="48" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e478s85uvosdohr85ydtuueyajb11h6l9cnnlc2hl5v&rid=giphy.gif&ct=s" alt="html5 logo" />&emsp;
+<img width="48" height="48" src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47aigpnjhq7qooin21pqvii96gvxycwmybb078jce9&rid=giphy.gif&ct=s" alt="css3 logo" />&emsp;
+<img width="48" height="48" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e478meig2gxh9x4ocvwui3bvpu6d8xb29jiv6e6ahhq&rid=giphy.gif&ct=s" alt="Javascript logo" />&emsp;
 
 ## Front skills
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo" />&emsp;
+<img width="48" height="48" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b76114fd114b513a32c7b8d6b0ab391374ae4b207cf3e&rid=giphy.gif&ct=s" alt="react logo" />&emsp;
 
 ## Back skills 
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" />&emsp;
