@@ -34,8 +34,8 @@ I am now a fullsatck JavaScript web developer.</p>
 ## Connect with me :
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-lemaire-8b020a129/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      src="https://c.tenor.com/KOki-OrS24AAAAAC/linkedin.gif"
+      alt="adam pithewan" height="72" width="100" /></a>
 </p>
 
 
