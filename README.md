@@ -21,14 +21,14 @@ I am now a fullsatck JavaScript web developer.</p>
 
 ## Back skills 
 <img width="48" height="48" src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodejs logo" />&emsp;
-<img width="70" height="32" src="https://sqitch.org/img/sqitch-logo.svg" alt="sqitch logo" />&emsp;
-<img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis logo" />&emsp;
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgreSQL logo" />&emsp;
+<img width="80" height="48" src="https://sqitch.org/img/sqitch-logo.svg" alt="sqitch logo" />&emsp;
+<img width="80" height="48" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis logo" />&emsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgreSQL logo" />&emsp;
 
 
 
 ## Currently learning...
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react logo" />&emsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react logo" />&emsp;
 
 ## Connect with me :
 <p align="left">
