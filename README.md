@@ -1,12 +1,17 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/88667588/157057592-285ec82c-c289-455c-a7a9-95aecd8097d9.gif" width="55"> Hi , I'm Michael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+	<img src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e47v51nc63g2rgu1h7xuwby1a23kdwucj6tciotnvai&rid=200w.webp&ct=s" width="35"> 
+	Hi , I'm Michael 
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 I am now a fullsatck JavaScript web developer.</p>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CREATIVE+|+CURIOUS+|+RIGOUROUS+|+INDEPENDENT;PROFESSIONAL+RECONVERSION;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CREATIVE+|+CURIOUS+|+RIGOUROUS+;PROFESSIONAL+RECONVERSION;&center=true&width=500&height=50"></a>
+	<img src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47cx5h6qfk29adod1xebsmg2f2eobh9pgapn2p7cbu&rid=giphy.gif&ct=s">
 </p>
 
 
 ## Languages 
+
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5 logo" />&emsp;
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3 logo" />&emsp;
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript logo" />&emsp;
@@ -17,10 +22,10 @@ I am now a fullsatck JavaScript web developer.</p>
 ## Back skills 
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo" />&emsp;
 <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express logo" />&emsp;
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgreSQL logo" />&emsp;
 <img width="70" height="32" src="https://sqitch.org/img/sqitch-logo.svg" alt="sqitch logo" />&emsp;
-<img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="heroku logo" />&emsp;
 <img width="70" height="32" src="https://upload.wikimedia.org/wikipedia/fr/6/6b/Redis_Logo.svg" alt="redis logo" />&emsp;
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgreSQL logo" />&emsp;
+
 
 
 ## Currently learning...
